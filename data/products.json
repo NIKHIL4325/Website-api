@@ -1,40 +1,44 @@
 [
   {
     "id": 1,
-    "name": "Casual T-Shirt",
-    "price": 29.99,
-    "description": "Comfortable cotton t-shirt",
+    "name": "Classic Denim Jacket",
+    "price": 79.99,
+    "description": "A timeless denim jacket with a comfortable fit and classic blue wash. Essential for any wardrobe.",
     "images": [
-      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
-      "https://images.unsplash.com/photo-1576566779878-5a6397e559e3",
-      "https://images.unsplash.com/photo-1554907983-2905188616c5"
+      "https://placehold.co/600x600/3b82f6/FFFFFF?text=Denim+Jacket",
+      "https://placehold.co/600x600/4d7c0f/FFFFFF?text=Back+View",
+      "https://placehold.co/600x600/f59e0b/FFFFFF?text=Detail"
     ]
   },
   {
     "id": 2,
-    "name": "Denim Jacket",
-    "price": 59.99,
-    "description": "Stylish denim jacket",
+    "name": "Striped Cotton T-Shirt",
+    "price": 24.50,
+    "description": "Soft, breathable cotton t-shirt with thin horizontal black and white stripes. Perfect for casual wear.",
     "images": [
-      "https://images.unsplash.com/photo-1551537482-f2075a0d0ef2",
-      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
-      "https://images.unsplash.com/photo-1565507875932-d81a38260178"
+      "https://placehold.co/600x600/ef4444/FFFFFF?text=Striped+Tee",
+      "https://placehold.co/600x600/e9d5ff/FFFFFF?text=Side+View"
     ]
   },
   {
     "id": 3,
-    "name": "Summer Dress",
-    "price": 39.99,
-    "description": "Light and breezy summer dress",
+    "name": "Minimalist Black Sneakers",
+    "price": 95.00,
+    "description": "Sleek black leather sneakers with a white sole. Designed for comfort and modern style.",
     "images": [
-      "https://images.unsplash.com/photo-1591360238940-aee530e46c2f",
-      "https://images.unsplash.com/photo-1593335591410-d02ec4081c7e",
-      "https://images.unsplash.com/photo-1520638515309-fa92b49e13b8"
+      "https://placehold.co/600x600/18181b/FFFFFF?text=Black+Sneakers"
     ]
   },
   {
     "id": 4,
-    "name": "Leather Boots",
+    "name": "Linen Summer Dress",
+    "price": 55.99,
+    "description": "Lightweight linen dress in a calming sky blue color. Ideal for hot weather.",
+    "images": [
+      "https://placehold.co/600x600/38bdf8/FFFFFF?text=Linen+Dress"
+    ]
+  }
+]    "name": "Leather Boots",
     "price": 89.99,
     "description": "Premium leather boots",
     "images": [
