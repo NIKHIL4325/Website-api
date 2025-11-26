@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Casual T-Shirt",
+    "price": 29.99,
+    "description": "Comfortable cotton t-shirt",
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+      "https://images.unsplash.com/photo-1576566779878-5a6397e559e3",
+      "https://images.unsplash.com/photo-1554907983-2905188616c5"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Denim Jacket",
+    "price": 59.99,
+    "description": "Stylish denim jacket",
+    "images": [
+      "https://images.unsplash.com/photo-1551537482-f2075a0d0ef2",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
+      "https://images.unsplash.com/photo-1565507875932-d81a38260178"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Summer Dress",
+    "price": 39.99,
+    "description": "Light and breezy summer dress",
+    "images": [
+      "https://images.unsplash.com/photo-1591360238940-aee530e46c2f",
+      "https://images.unsplash.com/photo-1593335591410-d02ec4081c7e",
+      "https://images.unsplash.com/photo-1520638515309-fa92b49e13b8"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Leather Boots",
+    "price": 89.99,
+    "description": "Premium leather boots",
+    "images": [
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2",
+      "https://images.unsplash.com/photo-1527375215682-9694762c2627",
+      "https://images.unsplash.com/photo-1597811979313-2d207c4b693e"
+    ]
+  }
+]
